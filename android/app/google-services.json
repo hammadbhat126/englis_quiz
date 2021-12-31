@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "10944995474",
+    "firebase_url": "https://fair-subset-207006-default-rtdb.firebaseio.com",
+    "project_id": "fair-subset-207006",
+    "storage_bucket": "fair-subset-207006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:6f7c9b87b9b9c28a29c64b",
+        "android_client_info": {
+          "package_name": "com.Kashsoftdevelopment.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-kmr8nao1nkil169qfh96h8c7hd29mesr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Kashsoftdevelopment.chat",
+            "certificate_hash": "537874f9a3b7dfd2abad3246f9e19d05ec92bd59"
+          }
+        },
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:1e6849a9e6b89a3e29c64b",
+        "android_client_info": {
+          "package_name": "com.kashsoft.psbuyandsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:44f0779f012c288329c64b",
+        "android_client_info": {
+          "package_name": "com.quiz.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:cdc46da81fdd52bc29c64b",
+        "android_client_info": {
+          "package_name": "com.school.awesomeapp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:5fa9272d819a465929c64b",
+        "android_client_info": {
+          "package_name": "com.school.englis_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:e2e3f98e802a359429c64b",
+        "android_client_info": {
+          "package_name": "com.school.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10944995474:android:42bab2e1484221d329c64b",
+        "android_client_info": {
+          "package_name": "com.virlabs.demo_flx_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10944995474-05v2io7154in4um61crsh4njie2nb0ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virlabs.demo_flx_application",
+            "certificate_hash": "537874f9a3b7dfd2abad3246f9e19d05ec92bd59"
+          }
+        },
+        {
+          "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5qYQStbMmuL8kcaQhuP_VlZAaMeuz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10944995474-ckev6j5h70sh0ol2rpknak48ptitbsq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
